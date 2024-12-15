@@ -1,0 +1,2 @@
+2024-12-15 18:06:24,923 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 18:06:24,939 - WARNING - No such comm: 8ac08e5f-5324-42f9-a827-c9867a748d0f

@@ -1,0 +1,24 @@
+2024-12-15 00:21:15,074 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 00:21:15,077 - WARNING - No such comm: 85faab16-0b94-4014-b6cb-4d9eb66a4e05
+2024-12-15 00:21:15,077 - DEBUG - Current comms: []
+2024-12-15 00:25:51,170 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 00:25:51,173 - WARNING - No such comm: 006c3eeb-dc31-4e5f-a308-d9df43f91826
+2024-12-15 00:25:51,173 - DEBUG - Current comms: []
+2024-12-15 00:44:15,254 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 00:44:15,259 - WARNING - No such comm: 72c83c00-2c6a-41b7-8c35-6f4bb6da36e7
+2024-12-15 00:44:15,260 - DEBUG - Current comms: []
+2024-12-15 00:44:15,267 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 00:44:15,270 - WARNING - No such comm: 1d57571d-5877-4822-9846-9eae46a19f96
+2024-12-15 00:44:15,272 - DEBUG - Current comms: []
+2024-12-15 02:14:04,575 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 02:14:04,575 - WARNING - No such comm: fc7fba0f-f5a4-414f-a8de-3aebcf0b372b
+2024-12-15 02:14:04,575 - DEBUG - Current comms: []
+2024-12-15 02:14:04,826 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 02:14:04,842 - WARNING - No such comm: 6d2b2029-ebad-47f1-b7fd-243f0f5afbc2
+2024-12-15 02:14:04,842 - DEBUG - Current comms: []
+2024-12-15 11:58:43,384 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 11:58:43,384 - WARNING - No such comm: 449f33d9-e230-46ec-826c-3948f8d8ab6b
+2024-12-15 11:58:43,384 - DEBUG - Current comms: []
+2024-12-15 11:58:43,400 - ERROR - No such comm target registered: jupyter.widget.control
+2024-12-15 11:58:43,400 - WARNING - No such comm: d6dc5697-a63c-45a3-b113-4507960dc53f
+2024-12-15 11:58:43,400 - DEBUG - Current comms: []
